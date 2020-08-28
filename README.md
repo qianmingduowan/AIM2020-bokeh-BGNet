@@ -3,6 +3,6 @@
 [Competition Link](https://competitions.codalab.org/competitions/24716#learn_the_details)
 
 
-* Full Results
+* Full Results Link：https://pan.baidu.com/s/1WVJ40IXpByXfQjcYGzFAuA   passwd：7uj2
 * Inference Code(released soon)
 * FULL Code(released soon)
