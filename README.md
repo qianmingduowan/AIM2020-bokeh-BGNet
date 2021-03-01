@@ -14,9 +14,7 @@ Our paper:
 @article{qian2020bggan,  
   title={BGGAN: Bokeh-Glass Generative Adversarial Network for Rendering Realistic Bokeh},  
   author={Qian, Ming and Qiao, Congyu and Lin, Jiamin and Guo, Zhenyu and Li, Chenghua and Leng, Cong and Cheng, Jian},  
-  booktitle={European Conference on Computer Vision},  
-  pages={229-244},  
-  year={2020},  
-  organization={Springer}  
+  journal={arXiv preprint arXiv:2011.02242},  
+  year={2020}  
 }  
 If you wanna your results for academic purpose, please contact mingqian@nuist.edu.cn
