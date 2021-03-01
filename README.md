@@ -10,7 +10,9 @@
 
 Because the paper "Efficient Bock Effect Rendering Using Generative Confrontation Network" is suspected of plagiarizing our article, I temporarily removed the final result.
 
-Our paper:
+Our paper accepted by eccv workshop
+If you find our paper is useful for you ,
+please cite us:
 @article{qian2020bggan,  
   title={BGGAN: Bokeh-Glass Generative Adversarial Network for Rendering Realistic Bokeh},  
   author={Qian, Ming and Qiao, Congyu and Lin, Jiamin and Guo, Zhenyu and Li, Chenghua and Leng, Cong and Cheng, Jian},  
