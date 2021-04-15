@@ -4,11 +4,9 @@
 [Competition Link](https://competitions.codalab.org/competitions/24716#learn_the_details)
 
 
-* Full Results Link：https://pan.baidu.com/s/1WVJ40IXpByXfQjcYGzFAuA   passwd：7uj2
+* Full Results Link：https://pan.baidu.com/s/1U83LuXL6UmwYtGDzYaHwkw   passwd：WJ45
 * Inference Code(released soon)
 * FULL Code(released soon)
-
-Because the paper "Efficient Bock Effect Rendering Using Generative Confrontation Network" is suspected of plagiarizing our article, I temporarily removed the final result.
 
 Our paper accepted by eccv workshop
 If you find our paper is useful for you ,
