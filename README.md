@@ -8,13 +8,13 @@
 * Inference Code(released soon)
 * FULL Code(released soon)
 
-Our paper accepted by eccv workshop
+Our paper accepted by eccv workshop.  
 If you find our paper is useful for you ,
-please cite us:
-@article{qian2020bggan,  
-  title={BGGAN: Bokeh-Glass Generative Adversarial Network for Rendering Realistic Bokeh},  
+please cite us:  
+@article{qian2020bggan,    
+  title={BGGAN: Bokeh-Glass Generative Adversarial Network for Rendering Realistic Bokeh},    
   author={Qian, Ming and Qiao, Congyu and Lin, Jiamin and Guo, Zhenyu and Li, Chenghua and Leng, Cong and Cheng, Jian},  
-  journal={arXiv preprint arXiv:2011.02242},  
-  year={2020}  
-}  
-If you wanna your results for academic purpose, please contact mingqian@nuist.edu.cn
+  journal={arXiv preprint arXiv:2011.02242},    
+  year={2020}    
+}    
+If you have any issues, please contact mingqian@nuist.edu.cn
