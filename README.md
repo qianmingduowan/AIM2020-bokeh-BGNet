@@ -10,8 +10,11 @@
 ## Use our code
 
 Before you run this model,you should install the following packges:
+
 python >= 3.6 
+
 tensorflow=2.2.0 
+
 argparse 
 
 then you should run the model like the following command: 
