@@ -10,14 +10,14 @@
 ## Use our code
 
 Before you run this model,you should install the following packges:
-python >= 3.6
-tensorflow=2.2.0
-argparse
+python >= 3.6 
+tensorflow=2.2.0 
+argparse 
 
-then you should run the model like the following command:
-CUDA_VISIBLE_DEVICES='0' python main.py --result_path ./result
+then you should run the model like the following command: 
+CUDA_VISIBLE_DEVICES='0' python main.py --result_path ./result 
 
-you can change your CUDA devices id and the path to save result images.
+you can change your CUDA devices id and the path to save result images. 
 
 ------------------------------------------------------------------------------
 
