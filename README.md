@@ -6,9 +6,8 @@
 
 * Full Results Link：https://pan.baidu.com/s/1U83LuXL6UmwYtGDzYaHwkw   passwd：WJ45
 * pretrained model & test image https://drive.google.com/drive/folders/1xnUTUHphKrrDN3MFJaiwDnN7XYUPq1eM?usp=sharing
-<!-- * Inference Code(released soon) -->
-<!-- * FULL Code(released soon) -->
-* Due to the limitation of the company during our internship period, we would not release the pretrained model and code in the recent future.
+
+
 
 Our paper accepted by eccv workshop.  
 If you find our paper is useful for you ,
