@@ -33,3 +33,7 @@ please cite us:
   booktitle={European Conference on Computer Vision},   
 }  
 If you have any issues, please contact mingqian@whu.edu.cn.
+
+
+------------------------------------------------------------------------------
+Our code can traslate to tflite file in a simple way.
