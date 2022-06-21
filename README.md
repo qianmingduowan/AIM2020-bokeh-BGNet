@@ -37,3 +37,4 @@ If you have any issues, please contact mingqian@whu.edu.cn.
 
 ------------------------------------------------------------------------------
 Our code can traslate to tflite file in a simple way.
+If you wanna reproduce our code, you can use the image pair list in "new_list.txt" for training.
