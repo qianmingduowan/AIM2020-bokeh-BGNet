@@ -41,3 +41,11 @@ Our code can traslate to tflite file in a simple way.
 If you wanna reproduce our code, you can use the image pair list in "new_list.txt" for training because we manually clean the train data of EBB! dataset. 
 
 If anyone wants to get my unsorted code in an uncommercial way, you can email me \& I will send it to you. (I didn't have time to sort it, I can send torch or tf2.0 version)
+
+
+### [License](./LICENSE.md)
+
+All rights reserved.
+Licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) (**Attribution-NonCommercial-ShareAlike 4.0 International**)
+
+The code is released for academic research use only. For commercial use, please contact [mingqian@whu.edu.cn](mingqian@whu.edu.cn).
